@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Bus stop list items -->
+    <dimen name="bus_stop_item_horizontal_padding">16dp</dimen>
+    <dimen name="bus_stop_item_vertical_padding">8dp</dimen>
+</resources>

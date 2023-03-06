@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bus Schedule</string>
+    <!-- Shown above left column listing bus stops in full schedule fragment -->
+    <string name="bus_stop_header">Stop Name</string>
+    <!-- Shown above right column listing arrival times in full schedule fragment -->
+    <string name="arrival_time_header">Arrival Time</string>
+</resources>
